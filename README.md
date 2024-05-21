@@ -33,3 +33,6 @@ This is a simple password generator application built using React. It allows use
    npm start
    ```
 
+The application will be available at http://localhost:3000.
+
+## Usage
