@@ -23,3 +23,13 @@ This is a simple password generator application built using React. It allows use
    cd password-generator
    ```
 2. **Install Dedependencies:**
+   
+   ```bash
+   npm install
+   ```
+3. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
