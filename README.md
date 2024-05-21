@@ -21,3 +21,5 @@ This is a simple password generator application built using React. It allows use
    ```bash
    git clone https://github.com/your-username/password-generator.git
    cd password-generator
+   ```
+2. **Install Dedependencies:**
