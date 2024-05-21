@@ -2,7 +2,8 @@
 
 This is a simple password generator application built using React. It allows users to generate a random password based on specified criteria such as length, inclusion of uppercase letters, numbers, and special characters.
 
-![Password Generator Screenshot](path_to_screenshot.png)
+![image](https://github.com/rajkumar3934/Password-Generator/assets/27536166/6efdd891-b467-4568-819c-4c1eda1dad60)
+
 
 ## Features
 
