@@ -36,3 +36,16 @@ This is a simple password generator application built using React. It allows use
 The application will be available at http://localhost:3000.
 
 ## Usage
+
+1. Open the application in your web browser.
+2. Select the desired password length from the dropdown.
+3. Check the options for including uppercase letters, numbers, and special characters.
+4. Click the Generate button to create a new password.
+5. The generated password will be displayed below the button.
+6. Click the copy icon to copy the password to your clipboard.
+
+## Technologies Used
+
+- **React:** A JavaScript library for building user interfaces.
+- **CSS:** For styling the application.
+- **JavaScript:** For logic and functionality.
